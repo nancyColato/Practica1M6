@@ -9,6 +9,6 @@
     <?php
         echo "<h1 style='text-align:center'>BIENVENIDOS</h1>";
     ?>
-    
+   <a href="integrantes.php" type="button" style="text-align:center">Integrantes</a>
 </body>
 </html>
