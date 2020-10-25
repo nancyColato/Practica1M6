@@ -33,6 +33,8 @@
     </table> <div>";
     ?>
     <br>
-    <a href="index.php" type="button" class="btnM6">Salir</a>
+    <div class="centrar">
+     <a href="index.php" type="button" class="btnM6">Salir</a>
+    </div>
 </body>
 </html>
