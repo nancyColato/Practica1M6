@@ -10,27 +10,28 @@
     <?php 
      echo "
     <div style='margin:5%'>
-    <table >
-        <thead>
-            <tr>
-                <th>N°</th>
-                <th>Nombre Completo</th>
-                <th>Codigo</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1</td>
-                <td>Nancy Alondra Colato Martínez</td>
-                <td>U20150457</td>
-            </tr>
-            <tr>
-            <td>2</td>
-            <td>Fidel Edgardo García Martínez</td>
-            <td>U20151154</td>
-        </tr>
-        </tbody>
-    </table> <div>";
+        <table >
+            <thead>
+                <tr>
+                    <th>N°</th>
+                    <th>Nombre Completo</th>
+                    <th>Codigo</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Nancy Alondra Colato Martínez</td>
+                    <td>U20150457</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Fidel Edgardo García Martínez</td>
+                    <td>U20151154</td>
+                </tr>
+            </tbody>
+        </table>
+    <div>";
     ?>
     <br>
     <div class="centrar">
