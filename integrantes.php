@@ -29,6 +29,11 @@
                     <td>Fidel Edgardo García Martínez</td>
                     <td>U20151154</td>
                 </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Nestor Stanley Rivas Díaz</td>
+                    <td>U20150590</td>
+                </tr>
             </tbody>
         </table>
     <div>";
