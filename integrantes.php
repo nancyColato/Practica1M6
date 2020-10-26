@@ -31,7 +31,7 @@
                 </tr>
                 <tr>
                     <td>3</td>
-                    <td>Nestor Stanley Rivas Díaz</td>
+                    <td>Nestor Stanley Rivas Díaz :3</td>
                     <td>U20150590</td>
                 </tr>
             </tbody>
