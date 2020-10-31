@@ -36,7 +36,7 @@
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td>Keyssi Esmeralda Góchez Mejía</td>
+                    <td>Keyssi Esmeralda Góchez Mejia</td>
                     <td>U20150635</td>
                 </tr>
             </tbody>
